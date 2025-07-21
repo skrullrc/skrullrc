@@ -1,39 +1,62 @@
-# 💫 About Me  
-🛡️ Cybersecurity Enthusiast | 🐍 Python Scripter | 🧠 CTF Player | 🔎 Exploring Web App Security  
-Always hunting bugs, never peace!
+<!-- Center-aligned content using HTML tags where needed -->
+
+<h1 align="center">💫 About Me</h1>
+<p align="center">
+🛡️ <b>Cybersecurity Enthusiast</b> | 🐍 Python Scripter | 🧠 CTF Player <br>
+🔎 Exploring Web App Security | <span style="color:red;">Always hunting bugs</span>, <span style="color:limegreen;">never peace!</span>
+</p>
 
 ---
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshamchaudhari)  
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ReshamC57635353)
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/reshamchaudhari">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ReshamC57635353">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<h2 align="center">💻 Tech Arsenal</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=skrullrc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=skrullrc&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skrullrc&theme=dark&hide_border=false&layout=compact)
+<h2 align="center">📊 GitHub Insights</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skrullrc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=skrullrc&theme=tokyonight&hide_border=false" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrullrc&theme=tokyonight&hide_border=false&layout=compact" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=skrullrc&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skrullrc&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=skrullrc&icon=0&color=4)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=skrullrc&icon=0&color=4" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly crafted with cyber vibes 😎 -->
+<!-- Made with ❤️ & 💻 by Resham -->

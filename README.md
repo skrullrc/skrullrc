@@ -1,6 +1,9 @@
-<!-- Center-aligned content using HTML tags where needed -->
+<!-- Center-aligned content with stylish name -->
 
-<h1 align="center">💫 About Me</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=👨‍💻+Resham+Chaudhari+👨‍💻;Cybersecurity+Enthusiast+%7C+Python+%7C+CTF+Player" alt="Typing SVG" />
+</h1>
+
 <p align="center">
 🛡️ <b>Cybersecurity Enthusiast</b> | 🐍 Python Scripter | 🧠 CTF Player <br>
 🔎 Exploring Web App Security | <span style="color:red;">Always hunting bugs</span>, <span style="color:limegreen;">never peace!</span>

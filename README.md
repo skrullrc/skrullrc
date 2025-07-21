@@ -1,8 +1,9 @@
 <!-- Center-aligned content with stylish name -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=👨‍💻+Resham+Chaudhari+👨‍💻;Cybersecurity+Enthusiast+%7C+Python+%7C+CTF+Player" alt="Typing SVG" />
+<h1 align="center" style="font-family: 'Share Tech Mono', monospace; color:#00FF00;">
+  ⚡ Resham Chaudhari ⚡
 </h1>
+
 
 <p align="center">
 🛡️ <b>Cybersecurity Enthusiast</b> | 🐍 Python Scripter | 🧠 CTF Player <br>
